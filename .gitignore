@@ -1,0 +1,14 @@
+target/
+docs/
+dev/
+*.lock
+*.o
+*.a
+*.so
+*.d
+.DS_Store
+*.swp
+*.toml
+*.tmp
+*~
+
